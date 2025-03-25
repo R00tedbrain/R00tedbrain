@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @R00tedbrain
 - 👀 I’m interested in ... cybersecurity and developing android projects & webapps
 - 🌱 I’m working
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
+
 
 
 <!---
