@@ -9,10 +9,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <!-- GitHub Readme Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dark" alt="TuUsuario's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=R00tedbrain&show_icons=true&theme=dark" alt="R00tedbrain's GitHub Stats"/>
 </p>
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R00tedbrain&theme=dark" alt="GitHub Streak"/>
 </p>
