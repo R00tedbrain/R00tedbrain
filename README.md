@@ -7,3 +7,12 @@ OLD GITHUB losted https://github.com/sirhof
 R00tedbrain/R00tedbrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<!-- GitHub Readme Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=dark" alt="TuUsuario's GitHub Stats"/>
+</p>
+
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=dark" alt="GitHub Streak"/>
+</p>
