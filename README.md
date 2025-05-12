@@ -1,4 +1,26 @@
-- 👋 Hola, soy **R00tedbrain**  
+#                               👋 Hola, soy **R00tedbrain** 👋
+---
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=44F814&center=true&vCenter=true&width=800&height=100&lines=PRIVACIDAD%20Y%20SEGURIDAD%20ANTE%20TODO;DESARROLLO%20SEGURO%2C%20EXITO%20GARANTIZADO"
+    alt="Typing SVG"/>
+</p>
+
+
+
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=44F814&center=true&vCenter=true&width=800&height=100&lines=HOLA%20SOY%20R00TEDBRAIN;CREANDO%20TECNOLOGIAS;ASEGURANDO%20TU%20PRIVACIDAD;PROTEGIENDO%20DE%20FUGAS%20DE%20INFORMACION"
+    alt="Typing SVG"/>
+</p>
+
+
+
+
+
+ 
 - 👀 Interesado en todas las tecnologías, inteligencia artificial y ciberseguridad.  
 - 🛠️ Actualmente trabajando como desarrollador, creando sistemas para Android, iOS y PWA.  
 - 📈 Siempre creando y aprendiendo cada día cosas nuevas.  
