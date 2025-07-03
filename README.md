@@ -63,6 +63,9 @@ You can click the Preview link to take a look at your changes.
 <!-- GitHub Readme Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=R00tedbrain&show_icons=true&theme=dark" alt="R00tedbrain's GitHub Stats"/>
+
+  <img width="770" alt="Captura de pantalla 2025-07-03 a las 12 02 54" src="https://github.com/user-attachments/assets/dbb8058c-1cec-4fc3-8e40-99113e8a1048" />
+
 </p>
 
 <!-- GitHub Streak Stats -->
